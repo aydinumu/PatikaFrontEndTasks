@@ -6,6 +6,10 @@
 <!-- 
 ----------------------------------------
 --> 
+
+
++ **[Week 1 - Pratik - Kişisel Blog Sayfası Oluşturma ](https://github.com/aydinumu/PatikaFrontEndTasks/blob/main/blogPage.html)**
++ 
 + **[Week 1 - Pratik - First Web Page ](https://github.com/aydinumu/PatikaFrontEndTasks/blob/main/firstWebPage.html)**
 
 + **[Week 1 - Pratik - Form Elemanları Kullanımı ](https://github.com/aydinumu/PatikaFrontEndTasks/blob/main/formElements.html)**
