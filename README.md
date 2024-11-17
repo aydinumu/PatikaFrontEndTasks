@@ -6,6 +6,7 @@
 <!-- 
 ----------------------------------------
 --> 
++ **[Week 1 - Pratik - Form Elemanları Kullanımı ](https://github.com/aydinumu/PatikaFrontEndTasks/blob/main/formElements.html)**
 
 + **[Week 1 - Pratik - Sınıf Tablosu ](https://github.com/aydinumu/PatikaFrontEndTasks/blob/main/sinif_tablosu.html)**
 
