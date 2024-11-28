@@ -8,6 +8,13 @@
 --> 
 
 
++ **[Week 2 - Pratik - Tribute Website ](https://github.com/aydinumu/PatikaFrontEndTasks/tree/main/BlogSite)**
+
++ **[Week 2 - Pratik - Kayıt Formu ](https://github.com/aydinumu/PatikaFrontEndTasks/tree/main/BlogSite)**
+
++ **[Week 2 - Pratik - Blog Sitesi Tasarlama ](https://github.com/aydinumu/PatikaFrontEndTasks/tree/main/BlogSite)**
+--------------------------------------
+
 + **[Week 1 - Pratik - Kişisel Blog Sayfası Oluşturma ](https://github.com/aydinumu/PatikaFrontEndTasks/blob/main/blogPage.html)**
 
 + **[Week 1 - Pratik - First Web Page ](https://github.com/aydinumu/PatikaFrontEndTasks/blob/main/firstWebPage.html)**
