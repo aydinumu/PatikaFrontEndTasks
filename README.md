@@ -8,7 +8,7 @@
 --> 
 
 
-+ **[Week 2 - Pratik - Tribute Website ](https://github.com/aydinumu/PatikaFrontEndTasks/tree/main/BlogSite)**
++ **[Week 2 - Pratik - Tribute Website ](https://github.com/aydinumu/PatikaFrontEndTasks/tree/main/Tribute)**
 
 + **[Week 2 - Pratik - Kayıt Formu ](https://github.com/aydinumu/PatikaFrontEndTasks/tree/main/BlogSite)**
 
